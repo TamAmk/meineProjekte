@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastLinkJS, Some(edcfa4c4-9950-4c33-8fa0-4ce216c6fa05), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastLinkJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\scala-js-tutorial-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 4 -- invalidated: 3 -- trees read: 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 18.02.2023, 19:57:31[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(tutorial.webapp.TutorialTest, org.scalajs.testing.common.Serializer$FingerprintSerializer$$anon$5@480079f4, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mTests: 2, Passed: 2, Failed: 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	tutorial.webapp.TutorialTest[0m

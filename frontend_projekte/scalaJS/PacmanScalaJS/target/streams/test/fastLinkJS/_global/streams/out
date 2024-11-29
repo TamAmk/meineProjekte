@@ -1,0 +1,22 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\scala-js-tutorial-test-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 411059 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 20067 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 453104 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 96243 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 7745 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 646958 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 752505 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 154041 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 9752 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 174666 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 1967 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 614 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 5858 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 9323 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 589930 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 32363 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 857[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 0 -- invalidated: 4315[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 650405 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 242962 us[0m

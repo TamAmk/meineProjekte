@@ -1,0 +1,215 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "pacmanscalajs",
+        "directory": "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS",
+        "workspaceDir": "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS",
+        "sources": [
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\src\\main\\scala",
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\src\\main\\scala-2.13",
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\src\\main\\scala-2",
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\src\\main\\java",
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\target\\scala-2.13\\src_managed\\main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+            "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-library_2.13\\1.13.0\\scalajs-library_2.13-1.13.0.jar",
+            "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-dom_sjs1_2.13\\2.1.0\\scalajs-dom_sjs1_2.13-2.1.0.jar",
+            "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-javalib\\1.13.0\\scalajs-javalib-1.13.0.jar"
+        ],
+        "out": "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\.bloop\\pacmanscalajs",
+        "classesDir": "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\.bloop\\pacmanscalajs\\scala-2.13\\classes",
+        "resources": [
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\src\\main\\resources",
+            "C:\\Users\\Tamer\\Desktop\\PacmanScalaJS\\target\\scala-2.13\\resource_managed\\main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.1",
+            "options": [
+                "-Xplugin:C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-compiler_2.13.1\\1.13.0\\scalajs-compiler_2.13.1-1.13.0.jar"
+            ],
+            "jars": [
+                "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar",
+                "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.1\\scala-compiler-2.13.1.jar",
+                "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.1\\scala-reflect-2.13.1.jar",
+                "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\jline\\jline\\2.14.6\\jline-2.14.6.jar",
+                "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\fusesource\\jansi\\jansi\\1.12\\jansi-1.12.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "utest.runner.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "js",
+            "config": {
+                "version": "1.13.0",
+                "mode": "debug",
+                "kind": "none",
+                "emitSourceMaps": false,
+                "jsdom": false,
+                "toolchain": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-library_2.13",
+                    "version": "1.13.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-library_2.13",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-library_2.13\\1.13.0\\scalajs-library_2.13-1.13.0.jar"
+                        },
+                        {
+                            "name": "scalajs-library_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-library_2.13\\1.13.0\\scalajs-library_2.13-1.13.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-dom_sjs1_2.13",
+                    "version": "2.1.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-dom_sjs1_2.13",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-dom_sjs1_2.13\\2.1.0\\scalajs-dom_sjs1_2.13-2.1.0.jar"
+                        },
+                        {
+                            "name": "scalajs-dom_sjs1_2.13",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-dom_sjs1_2.13\\2.1.0\\scalajs-dom_sjs1_2.13-2.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-javalib",
+                    "version": "1.13.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-javalib",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-javalib\\1.13.0\\scalajs-javalib-1.13.0.jar"
+                        },
+                        {
+                            "name": "scalajs-javalib",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-js\\scalajs-javalib\\1.13.0\\scalajs-javalib-1.13.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.1",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\Tamer\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.1\\scala-library-2.13.1-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

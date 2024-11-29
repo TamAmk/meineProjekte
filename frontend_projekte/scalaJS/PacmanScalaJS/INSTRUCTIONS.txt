@@ -1,0 +1,3 @@
+To run the webapplication, just open the index.html file.
+
+Have fun! :D

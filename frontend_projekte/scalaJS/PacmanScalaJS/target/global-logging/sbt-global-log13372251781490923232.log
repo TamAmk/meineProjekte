@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastLinkJS, Some(691958b2-9b82-4cc3-9af2-3990a7af1f7d), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastLinkJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Tamer\Desktop\PacmanScalaJS\src\main\scala\tutorial\webapp\TutorialApp.scala:179:27: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (x$1: Any)Boolean <and> (x: Double)Boolean <and> (x: Float)Boolean <and> (x: Long)Boolean <and> (x: Int)Boolean <and> (x: Char)Boolean <and> (x: Short)Boolean <and> (x: Byte)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m required: Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m								if(pacMan.posX+20 ==  ) {[0m
+[0m[[0m[31merror[0m] [0m[0m								                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 0 -- trees read: 0[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 19.02.2023, 01:16:04[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastLinkJS, Some(62ea1514-3529-40ed-aa88-c8afa01b53a8), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastLinkJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 8 -- trees read: 0[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 23.02.2023, 19:23:50[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mserver failed to start on local:sbt-server-4864f77564a8c6f77d4b. java.io.IOException: Could not create lock for \\.\pipe\sbt-server-4864f77564a8c6f77d4b_lock, error 5[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

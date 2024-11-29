@@ -1,0 +1,65 @@
+{"$origin": "example.com.",
+"$ttl" : 3600 ,
+"@" : "@",
+
+"SOA" :[{
+    "mname": "ns1.p30.dynect.net.",
+    "rname" : "zone-admin.dyndns.com.", 
+    "serial" : "2016072701",
+    "refresh" : 3600,
+    "retry" : 600,
+    "expire": 604800,
+    "minimum": 1800
+}],
+"NS" : [{
+    "name" : "@",
+    "ttl" : 86400, 
+    "host" : "ns1.p30.dynect.net."
+}],
+"MX" : [{
+    "name" : "@",
+    "ttl" : 3600,
+    "priority" : 30,
+    "value" : "mail1.example.com."
+    },
+    {
+    "name" : "@",
+    "ttl" : 3600,
+    "priority" : 31,
+    "value" : "mail2.example.com."
+    },
+    {
+    "name" : "@",
+    "ttl" : 3600,
+    "priority" : 32,
+    "value" : "mail3.example.com."
+}],
+"A" : [
+    {"name" : "help.example.com.", 
+    "ttl" : 60, 
+    "value" : "204.13.248.105"},
+    {"name" : "@", 
+    "ttl" : 60, 
+    "value" : "204.13.248.106"},
+    {"name" : "@", 
+    "ttl" : 60, 
+    "value" : "204.13.248.107"},
+    {"name" : "@", 
+    "ttl" : 60, 
+    "value" : "204.13.248.108"}
+],
+"AAAA" : [
+    {"name" : "@",
+    "ttl" : 60, 
+    "value" : "ff03:0:0:0:0:0:0:c1"},
+    {"name" : "@",
+    "ttl" : 60, 
+    "value" : "ff03:0:0:0:0:0:0:c2"},
+    {"name" : "@",
+    "ttl" : 60, 
+    "value" : "ff03:0:0:0:0:0:0:c3"}
+],
+"TXT" : [{
+    "name" : "@",
+    "value" : "v=spf1 +mx -all"}]
+}

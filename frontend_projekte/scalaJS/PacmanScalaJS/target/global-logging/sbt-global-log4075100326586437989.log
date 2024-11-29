@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(fastLinkJS, Some(123c940d-c1d0-4c17-8f72-c4c386f97a55), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / fastLinkJS[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\scala-js-tutorial-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 4 -- invalidated: 4 -- trees read: 4[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 22.02.2023, 15:42:52[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(ce622645-c2ca-4165-8fb2-79a56733ec4a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing C:\Users\Tamer\Desktop\PacmanScalaJS\target\scala-2.13\scala-js-tutorial-test-fastopt[0m
+[0m[[0m[0minfo[0m] [0m[0mTests: 2, Passed: 2, Failed: 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 0 -- invalidated: 13 -- trees read: 1000[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 5 s, completed 11.02.2023, 21:17:56[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
